@@ -1,0 +1,14 @@
+# dependencies
+/node_modules
+
+# production
+/build
+build.zip
+
+# misc
+.DS_Store
+
+npm-debug.log*
+
+server.py
+vscode/

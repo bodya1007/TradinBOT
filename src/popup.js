@@ -4,4 +4,3 @@ function start() {
 	})
 }
 document.getElementById('start').addEventListener('click', start)
-// document.getElementById('start').addEventListener('click', makeOffer)
